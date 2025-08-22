@@ -25,7 +25,8 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
 - Pinterest: I like that users can post there in the form of "pins" and each "pin" has its own comment section. You can even save "pins" to "boards" which serve as a collection of "pins"
 - Discord: I like that you can make servers that can have multiple people in each. Each server can be organized into channels, and each channel can be restricted to certain individuals in the server. The amount of restrictions and "private spaces" it can offer for users is abundant
 
---> Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not committing to this idea, but it helps to start brainstorming early on and get feedback from your peers and instructors.
+--> App idea:
+
 I'd like to make a mobile game that allows players to move in x-y-z directions and is open-world, meaning a type of video game where players can freely explore a large, virtual environment, often without strict limitations or linear paths. I would like for the player to be able to customize their own in-game avatar and in-game name/nickname. As for the themes this mobile game deals with, I'd like for it to be a survival game that replicates the COVID-era but intensifies the symptoms of the virus and showcases the negative effects on peoples' mental health and how isolation worsens their mental states.
 
 

@@ -27,7 +27,7 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
 
 --> App idea:
 
-I'd like to make a mobile game that allows players to move in x-y-z directions and is open-world, meaning a type of video game where players can freely explore a large, virtual environment, often without strict limitations or linear paths. I would like for the player to be able to customize their own in-game avatar and in-game name/nickname. As for the themes this mobile game deals with, I'd like for it to be a survival game that replicates the COVID-era but intensifies the symptoms of the virus and showcases the negative effects on peoples' mental health and how isolation worsens their mental states.
+I'd like to make a mobile game that allows players to move in x-y-z directions and is open-world, meaning a type of video game where players can freely explore a large, virtual environment, often without strict limitations or linear paths. I would like for the player to be able to customize their own in-game avatar and in-game name/nickname. As for the themes this mobile game deals with, I'd like for it to be a survival game that replicates the COVID-era but intensifies the symptoms of the virus. I'd like for this game to showcase the negative effects on peoples' mental health and how isolation worsens their mental states in the form of a playable game in which players can interact with the environment.
 
 
 ## Notes
